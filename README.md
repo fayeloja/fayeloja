@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Fatai from Lagos, Nigeria<br><br>- 🔭 I’m working as a Web Developer/Designer/Operations Director <br>- 📚 I'm currently learning DevOps Engineering and MERN stack<br>- ⚡ In my free time I am building a Giving (Donation platform where donors meet recipients) using the MERN tech stack, then will use the DevOps skill to integrate and deploy continuously.</p>
+<p align="left">I'm Fatai Ayeloja from Lagos, Nigeria<br><br>- 🔭 A Software Developer/Designer/Operations Director <br>- 📚 I'm currently learning DevOps Engineering and MERN stack<br>- ⚡ In my free time I am building a Giving (Donation platform where donors meet recipients) using the MERN tech stack, then will use the DevOps skill to integrate and deploy continuously.</p>
 
 ###
 
